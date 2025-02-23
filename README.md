@@ -71,6 +71,4 @@ This project analyzes restaurant data from Swiggy to extract meaningful insights
 ## **Conclusion**
 This project demonstrates the use of **Power BI** in analyzing restaurant data from Swiggy, providing valuable business intelligence insights for decision-making in the **food delivery industry**.
 
----
-### 📌 **Author:** [Your Name]
-### 📌 **GitHub Repository:** [Repository Link]
+
